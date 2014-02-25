@@ -1,0 +1,19 @@
+{
+SampleData: [
+{
+name: "Ali Salhi",
+job: "Developer",
+live: "Beit Hanina"
+},
+{
+name: "Rami Sami",
+job: "SalesMan",
+live: "Sur Baher"
+},
+{
+name: "Hani Fayez",
+job: "Driver",
+live: "Shufat"
+}
+]
+}
