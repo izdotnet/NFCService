@@ -1,6 +1,4 @@
-
-SampleData: [
-{
+{"SampleData": [{
 name: "Ali Salhi",
 job: "Developer",
 live: "Beit Hanina"
